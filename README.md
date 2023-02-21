@@ -14,4 +14,5 @@ I love learning new skills and knowledges so maybe we can do it together ?
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)"/>
   <img src="https://img.shields.io/badge/C%20language-5c5555?style=for-the-badge&logo=c&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/PHP-296db2?style=for-the-badge&logo=php&logoColor=white"/>
 </div>
