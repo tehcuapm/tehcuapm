@@ -2,7 +2,7 @@
 
 My current stack is :
   - Ruby / Ruby On Rails
-  - JS/TS - Nest/Express
+  - JS/TS - Nest/Hono
   
 I love learning new skills and knowledges so maybe we can do it together ?
 
